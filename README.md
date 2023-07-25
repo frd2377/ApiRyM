@@ -1,2 +1,1 @@
-# ApiRyM
-Aplicación, Android, IOS
+# Aplicacion react-native
