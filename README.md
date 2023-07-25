@@ -1,1 +1,0 @@
-Aplicacion react-native
